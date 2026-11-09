@@ -1,23 +1,14 @@
+ **As a** [role]  
+ **I need** [function]  
+ **So that** [benefit]  
 
----
-name: Task
-about: Create a task for the Agile planning project
-title: ""
-labels: []
-assignees: []
----
+ ### Details and Assumptions
+ * [document what you know]
 
-## Task Description
-Describe the work that needs to be completed.
+ ### Acceptance Criteria  
 
-## Acceptance Criteria
-- [ ] Criterion 1
-- [ ] Criterion 2
-
-## Priority
-- [ ] High
-- [ ] Medium
-- [ ] Low
-
-## Additional Notes
-Add relevant details or dependencies.
+ ```gherkin
+ Given [some context]
+ When [certain action is taken]
+ Then [the outcome of action is observed]
+ ```
